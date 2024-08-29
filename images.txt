@@ -1,5 +1,5 @@
 docs-scraper
 #支持私库
 getmeili/docs-scraper:latest
-#支持指定架 构
+#支持指定架  构
 --platform=linux/amd64 
