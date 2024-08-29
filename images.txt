@@ -1,1 +1,1 @@
-getmeili/docs-scraper:latest
+getmeili/docs-scraper:v0.12.7
